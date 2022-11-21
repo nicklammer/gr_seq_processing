@@ -1,0 +1,4 @@
+group,replicate,fastq_1,fastq_2,antibody,control
+dex,1,/scratch/Users/nila7826/chip_stallcup/sra/SRR1799730.fastq.gz,,GR,input
+dex,2,/scratch/Users/nila7826/chip_stallcup/sra/SRR1799732.fastq.gz,,GR,input
+input,1,/scratch/Users/nila7826/chip_stallcup/sra/SRR1799734.fastq.gz,,,

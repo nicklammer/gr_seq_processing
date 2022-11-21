@@ -1,0 +1,12 @@
+{
+    "input": "\/scratch\/Users\/nila7826\/chip_stallcup\/sra\/nfcoresamples.csv",
+    "single_end": true,
+    "email": "nila7826@colorado.edu",
+    "fasta": "\/scratch\/Users\/nila7826\/genome\/hg38\/GRCh38.primary_assembly.genome.fa",
+    "gtf": "\/scratch\/Users\/nila7826\/genome\/hg38\/gencode.v39.annotation.gtf",
+    "macs_gsize": "2701495761",
+    "save_reference": true,
+    "save_align_intermeds": true,
+    "narrow_peak": true,
+    "skip_diff_analysis": true
+}
