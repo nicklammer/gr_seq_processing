@@ -1,3 +1,0 @@
-group,replicate,fastq_1,fastq_2,antibody,control
-dex,1,/scratch/Users/nila7826/chip_lis/sra/SRR13266925.fastq.gz,,GR,etoh
-etoh,1,/scratch/Users/nila7826/chip_lis/sra/SRR13266926.fastq.gz,,,
