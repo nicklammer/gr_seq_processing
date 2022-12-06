@@ -8,3 +8,5 @@ Scripts for processing raw sequencing data (GR project)
 "4suseq" contains scripts specifically for analyzing 4sU-seq differential expression.
 ### ripseq
 "ripseq" contains scripts specifically for analyzing RIP-seq enrichment.
+### immunofluorescence
+"immunofluorescence" contains scripts for plotting GR immunofluorescence data
